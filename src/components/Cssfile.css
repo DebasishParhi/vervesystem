@@ -1,0 +1,64 @@
+
+.maindiv{
+    display: flex;
+}
+.Register{
+    height: 300px;
+    width: 40%;
+    margin-top: 100px;
+    text-align: center;  
+    margin-left: 35%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.login{
+    height: 300px;
+    width: 150%;
+    margin-top: 100px;
+    text-align: center; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+input{
+    height: 30px;
+    width: 40%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.btn{
+    height: 30px;
+    width: 20%;
+    background-color: rgb(124, 107, 210);
+    color: rgb(159, 174, 167);
+    font-size: 20px;
+    border: none;
+}
+
+.completed{
+    margin-left: 100%;
+    padding: 10px 30px;
+    height: 100px;
+    width: 120%;
+    background-color: rgb(68, 8, 151);
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid black;
+
+}
+.pending{
+    margin-left: 200%;
+    padding: 10px 30px;
+    height: 100px;
+    width: 110%;
+    background-color: rgb(68, 8, 151);
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid black;
+
+
+}
+
+.option{
+    margin-left: 200%;
+    margin-bottom: -89%;
+}
